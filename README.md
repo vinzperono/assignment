@@ -12,4 +12,4 @@ http://localhost:8080/swagger-ui.html
 http://localhost:8080/console
 
 #Clone/Download/Import project and run
-mvn spring-boot:run
+"mvn spring-boot:run"
